@@ -16,9 +16,7 @@ import com.imcs.SprMvc.model.User;
 
 import static org.hibernate.cfg.Environment.*;
 
-/**
- * @author imssbora
- */
+
 @Configuration
 @PropertySource("classpath:db.properties")
 @EnableTransactionManagement
